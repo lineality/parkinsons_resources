@@ -19,7 +19,18 @@ SLP or Speech Language and Cognition, e.g. Parkinson Voice Project
 #### Daily Videos:
 - https://www.parkinsonvoiceproject.org/SpeechExercises
 
-(SLP stands for "Speech Language Pathology" which if confusing is standard terminology
+#### SLP
+"SLP" stands for "Speech Language Pathology" which, if confusing, is standard terminology for a speech-swallowing therapist and/or a speech-language-brain-training therapist. 
+An interesting distinction in the 'extend' vs. 'contract' goal of treating parkinsons, is that the LSVT-PT school focuses (it has been said, though I'm sure some will beg to differ) on increasing-the-amplitude: goal = bigger amplitude, 
+whereas the SLP-SpeakOut school focuses on intent, or not being automatic: goal = act with intent / or act not-automatically. 
+In some cases the semantics may be unhelpful when getting to the measurable-outcomes, but a core example from SpeakOut (perhaps the founding example) is that when people with parkinsons have trouble maintaining their ability to speak when counting from one to twenty (with the numbers fading to nothing by the end), when counting backwards (which for most people takes effort and deliberation and intent and cannot be done without thinking or focusing) each number can be said in a loud clear voice (by the same person who could not do that counting forwards). Retraining your brain to do things, perhaps with new neural pathways via neuroplasticity, using different parts of the brain is a key theme in parkinson's treatment, though the brain is still not well understood. 
+
+#### See these for more case studies
+- https://www.amazon.com/Brain-That-Changes-Itself-Frontiers/dp/0143113100/
+- https://www.amazon.com/Brains-Way-Healing-Discoveries-Neuroplasticity/dp/014312837X/ 
+
+You may need to internalize a number of such examples and case studies to get a sense of a generalized (or not generalized) not-contraction (extension, amplitude, intent, focus etc.) to get a sense for how different doctors (who often focus on one area) may use their own narrow lexicon. 
+
 
 ## Daily/Weekly Checklist of Parkinson's Physical and Speech Therapy 
 https://github.com/lineality/parkinsons_resources/blob/main/Weekly%20Planner%20Parkinson%27s%20Activity%20Checklist%20%20v3.53.pdf 
