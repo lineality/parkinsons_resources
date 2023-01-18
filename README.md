@@ -10,7 +10,7 @@ Dividing up activities is rather arbitrary, but a practical division into two ar
 
 #### 1. Physical: 
 PT, OT, LSVT-Big & "Rock-Steady" or Non-Contact Boxing all often deal with whole body movement, balance, etc. These terms may come up as you research as discuss therapy. 
-PT stands for Physical Therapy, OT is "Occupational Therapy '' (and can be tricky to define but often focuses on real-world tasks such as 'getting yourself a glass of water,' or 'safely taking a bath'). LSVT is a patented specific variant of therapeutic activities. The activities described here are general range of motion activities, not the copyrighted super-secret-squirl stretching and reaching activities of LSVT. If you want pure LSVT then you can enter their bureaucracy (where in the case of my father they often refused to even tell him what the activities were (top secret)). Sometimes the LSVT program is simply shortened to the "BIG" program. For our purposes, we do reaching and stretching to cover a full range of motion (which is my own focus. I focus on range of motion, stances, etc.) 
+PT stands for Physical Therapy, OT is "Occupational Therapy '' (and can be tricky to define but often focuses on real-world tasks such as 'getting yourself a glass of water,' or 'safely taking a bath'). LSVT is a patented specific variant of therapeutic activities. The activities described here are general range of motion activities, not the copyrighted super-secret-squirl stretching and reaching activities of LSVT. If you want pure LSVT then you can enter their bureaucracy (where in the case of my father they often refused to even tell him what the activities were (top secret)). Sometimes the LSVT program is simply shortened to the "BIG" program. For our purposes, we do reaching and stretching to cover a full range of motion (which is my own focus. I focus on range of motion, stances, etc.) See 'Picture guide for Range of Motion Activities' PDF below for non-secret range of motion examples. 
 Rocksteady or Non-Contact boxing has become increasingly used to treat and prevent Parkinsons and various videos and resources should be available online. Even though this is called 'boxing' at no point will people be punching each-other in the head ("the noble sport"). 
 
 #### 2. Speech: 
@@ -39,7 +39,7 @@ It may be worth looking into Kahneman and Tversky's 'system 1' and 'system 2' br
 ## Daily/Weekly Checklist of Parkinson's Physical and Speech Therapy 
 https://github.com/lineality/parkinsons_resources/blob/main/Weekly%20Planner%20Parkinson%27s%20Activity%20Checklist%20%20v3.53.pdf 
 
-## Picture guide for "Big" Activities from the daily weekly checklist
+## Picture guide for Range of Motion Activities from the daily weekly checklist ("Big")
 https://github.com/lineality/parkinsons_resources/blob/main/Parkinson's%20PT%20Main%2010%20Daily%20v12.pdf 
 
 ## 32x Routine
