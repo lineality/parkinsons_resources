@@ -43,7 +43,9 @@ https://github.com/lineality/parkinsons_resources/blob/main/Weekly%20Planner%20P
 https://github.com/lineality/parkinsons_resources/blob/main/Parkinson's%20PT%20Main%2010%20Daily%20v12.pdf 
 
 ## 32x Routine
-A note on the core 32x morning warmup routine that my father and I developed and that I now use daily as well. Do 32x :
+A note on the core 32x morning warmup routine that my father and I developed and that I now use daily as well. 
+
+#### Do 32x :
 - Count on your fingers in binary from zero to thirty one (each hand can do this redundantly). For Parkinsons, the more activities that you can stack and do simultaneously the better. Moving, counting on your fingers, and counting out loud, is a good example of stacking. If this presents a safety risk, do not try to do more than one thing at a time (e.g. talking and swallowing your food). But for exercise and physical therapy in a safe environment, you want to push and extend your ability to do multiple things.
 - main step backwards (toe up on forward foot) with hand stretched back behind you.
 - forward step and reach forwards
