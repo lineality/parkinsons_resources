@@ -32,7 +32,7 @@ In some cases the semantics may be unhelpful when getting to the measurable-outc
 You may need to internalize a number of such examples and case studies to get a sense of a generalized (or not generalized) not-contraction (extension, amplitude, intent, focus etc.) to get a sense for how different doctors (who often focus on one area) use their own narrow lexicon. Does it overlap? Does it not-overlap? Maybe someday we will be able to say clearly. 
 
 #### Automatic vs. Not-Automatic
-https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG
+- https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG
 It may be worth looking into Kahneman and Tversky's 'system 1' and 'system 2' brain processes, though no doubt people will differ over whether they feel there is a significant connection to Parkinsons.   
 
 ## Daily/Weekly Checklist of Parkinson's Physical and Speech Therapy 
