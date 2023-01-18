@@ -9,9 +9,9 @@ Over the years, the 'neuroplasticity of the brain,' or the ability of the brain 
 Dividing up activities is rather arbitrary, but a practical division into two areas (that follow two of the main bundled regimes of clinically tested sets of activities) may be: Physical & Speech
 
 #### 1. Physical: 
-PT, OT, LSVT-Big & "Rock-Steady" or Non-Contact Boxing
-(PT stands for Physical Therapy, OT is "Occupational Therapy '', LSVT is a patented specific variant of therapeutic activities described more broadly here so as not to infringe on the copyright of super-secret-squirl stretching and reaching activities.) 
-Rocksteady or Non-Contact boxing has become increasingly used and various videos and resources should be available online. 
+PT, OT, LSVT-Big & "Rock-Steady" or Non-Contact Boxing all often deal with whole body movement, balance, etc. These terms may come up as you research as discuss therapy. 
+PT stands for Physical Therapy, OT is "Occupational Therapy '' (and can be tricky to define but often focuses on real-world tasks such as 'getting yourself a glass of water,' or 'safely taking a bath'). LSVT is a patented specific variant of therapeutic activities. The activities described here are general range of motion activities, not the copyrighted super-secret-squirl stretching and reaching activities of LSVT. If you want pure LSVT then you can enter their bureaucracy (where in the case of my father they often refused to even tell him what the activities were (top secret)). Sometimes the LSVT program is simply shortened to the "BIG" program. For our purposes, we do reaching and stretching to cover a full range of motion (which is my own focus. I focus on range of motion, stances, etc.) 
+Rocksteady or Non-Contact boxing has become increasingly used to treat and prevent Parkinsons and various videos and resources should be available online. Even though this is called 'boxing' at no point will people be punching each-other in the head ("the noble sport"). 
 
 #### 2. Speech: 
 SLP or Speech Language and Cognition, e.g. Parkinson Voice Project
@@ -20,8 +20,8 @@ SLP or Speech Language and Cognition, e.g. Parkinson Voice Project
 - https://www.parkinsonvoiceproject.org/SpeechExercises
 
 #### SLP
-"SLP" stands for "Speech Language Pathology" which, if confusing, is standard terminology for a speech-swallowing therapist and/or a speech-language-brain-training therapist. 
-An interesting distinction in the 'extend' vs. 'contract' goal of treating parkinsons, is that the LSVT-PT school focuses (it has been said, though I'm sure some will beg to differ) on increasing-the-amplitude: goal = bigger amplitude, 
+"SLP" stands for "Speech Language Pathology" which, if confusing (what exactly does "Pathology" refer to in most SLP cases?), is standard terminology for a speech-swallowing therapist and/or a speech-language-brain-training therapist (at least in the USA). 
+An interesting distinction in the 'extend' vs. 'contract' goal of treating Parkinsons, is that the LSVT-PT school focuses (it has been said, though I'm sure some will beg to differ) on increasing-the-amplitude of motion: goal = bigger amplitude, (hence the "big" program)
 whereas the SLP-SpeakOut school focuses on intent, or not being automatic: goal = act with intent / or act not-automatically. 
 In some cases the semantics may be unhelpful when getting to the measurable-outcomes, but a core example from SpeakOut (perhaps the founding example) is that when people with parkinsons have trouble maintaining their ability to speak when counting from one to twenty (with the numbers fading to nothing by the end), when counting backwards (which for most people takes effort and deliberation and intent and cannot be done without thinking or focusing) each number can be said in a loud clear voice (by the same person who could not do that counting forwards). Retraining your brain to do things, perhaps with new neural pathways via neuroplasticity, using different parts of the brain is a key theme in parkinson's treatment, though the brain is still not well understood. 
 
@@ -29,8 +29,11 @@ In some cases the semantics may be unhelpful when getting to the measurable-outc
 - https://www.amazon.com/Brain-That-Changes-Itself-Frontiers/dp/0143113100/
 - https://www.amazon.com/Brains-Way-Healing-Discoveries-Neuroplasticity/dp/014312837X/ 
 
-You may need to internalize a number of such examples and case studies to get a sense of a generalized (or not generalized) not-contraction (extension, amplitude, intent, focus etc.) to get a sense for how different doctors (who often focus on one area) may use their own narrow lexicon. 
+You may need to internalize a number of such examples and case studies to get a sense of a generalized (or not generalized) not-contraction (extension, amplitude, intent, focus etc.) to get a sense for how different doctors (who often focus on one area) use their own narrow lexicon. Does it overlap? Does it not-overlap? Maybe someday we will be able to say clearly. 
 
+#### Automatic vs. Not-Automatic
+https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG
+It may be worth looking into Kahneman and Tversky's 'system 1' and 'system 2' brain processes, though no doubt people will differ over whether they feel there is a significant connection to Parkinsons.   
 
 ## Daily/Weekly Checklist of Parkinson's Physical and Speech Therapy 
 https://github.com/lineality/parkinsons_resources/blob/main/Weekly%20Planner%20Parkinson%27s%20Activity%20Checklist%20%20v3.53.pdf 
