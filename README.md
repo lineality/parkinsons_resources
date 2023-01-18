@@ -50,12 +50,13 @@ A note on the core 32x morning warmup routine that my father and I developed and
 - 32 times do a side step and reach to the side (like a lopsided jumping jack), 
 - 32 times reach step to the side and reach across (e.g. step with your right foot and reach to the right with your LEFT hand) 
 - 32 times do the standard non-contact-boxing motions of:
- - "jab" (punch forward 1)
- - "cross" (punch forward 1)
- - hook (1)
- - hook (2)
- - uppercut (1)
- - uppercut (2)
+- "jab" (punch forward 1), standard non-contact-boxing motion
+- "cross" (punch forward 1), standard non-contact-boxing motion
+- hook (1), standard non-contact-boxing motion
+- hook (2), standard non-contact-boxing motion
+- uppercut (1), standard non-contact-boxing motion
+- uppercut (2), standard non-contact-boxing motion
+
 #### Note: The non-contact boxing may also help to balance your back and reduce back pain.  
 
 # Buddy & Checklist
