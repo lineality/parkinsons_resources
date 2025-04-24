@@ -58,8 +58,8 @@ A note on the core 32x morning warmup routine that my father and I developed and
 - uppercut (1), standard non-contact-boxing motion
 - uppercut (2), standard non-contact-boxing motion
 
-### Parkinson's PT Main 10 Daily
-https://github.com/lineality/parkinsons_resources/blob/main/Parkinson's%20PT%20Main%2010%20Daily%20v12.pdf
+#### Parkinson's PT Main 10 Daily (jpg)
+https://github.com/lineality/parkinsons_resources/blob/main/Parkinson's%20PT%20Main%2010%20Daily%20v12.jpg
 
 # Buddy & Checklist
 - Keeping track of your activities and having a partner or buddy can help regular exercise and fitness. For some more than others, it may be advisably safer to have assistance, especially if falling presents any risk. And since a standard part of Parkinsons is needing to re-train the brain to understand where the body is and what it is doing (the actual body contracts and quiets while the brain thinks motions remain normal), having a buddy or trainer to give feedback can be vital. 
